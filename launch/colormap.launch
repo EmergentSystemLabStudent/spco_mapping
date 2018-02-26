@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <arg name="hoge"/>
+    <node name="colormap_saver" pkg="spco_semantic_mapping" type="colormap_saver" respawn="true" output="screen" >
+        <param name="traialname" value="$(arg hoge)"/> 
+    </node>
+
+</launch>
