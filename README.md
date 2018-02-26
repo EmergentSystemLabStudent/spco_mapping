@@ -9,9 +9,11 @@ SpCoMapping for ROS indigo, Ubuntu 14.04.
 
 1. Download the dataset from `https://github.com/EmergentSystemLabStudent/Dataset_of_SpCoMapping.git`
 
-2. put the directory `/room*` to the `spco_mapping/data/DATASET/`
+2. Put the directory `/room*` to the `spco_mapping/data/DATASET/`
 
-3. put the file in the directory `/map` to the `spco_mapping/map/map_sigverse/`
+3. Put the file in the directory `/map` to the `spco_mapping/map/map_sigverse/`
+
+4. Set the file path in `/src/__init__.py`, `/src/colormap_saver.cpp`
 
 ###### Training
 
