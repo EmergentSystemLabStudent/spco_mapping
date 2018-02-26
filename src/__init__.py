@@ -11,6 +11,7 @@ import os.path
 
 TRIALNAME = sys.argv[1]
 
+MAP_TOPIC = "/map"
 DATASET_FOLDER = "PATH/catkin_ws/src/spco_mapping/data/"
 Descriptor = "CNN_Place205"
 DATASET_NAME = "room1dk5_all"
