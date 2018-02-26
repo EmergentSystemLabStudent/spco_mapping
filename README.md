@@ -27,7 +27,7 @@ The string has no meaning.
 
 ###### In the catkin_workspace
 
-1. `git clone https://github.com/EmergentSystemLabStudent/SpCoMapping.git`
+1. `git clone https://github.com/EmergentSystemLabStudent/spco_mapping.git`
 
 2. `catkin_make`
 
