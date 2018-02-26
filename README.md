@@ -27,5 +27,10 @@ The string has no meaning.
 
 ###### In the catkin_workspace
 
-`git clone https://github.com/EmergentSystemLabStudent/SpCoMapping.git`  
-`catkin_make`
+1. `git clone https://github.com/EmergentSystemLabStudent/SpCoMapping.git`
+
+2. `catkin_make`
+
+3. `sudo apt-get update`
+
+4. `sudo apt-get install ros-indigo-amcl ros-indigo-map-server`
